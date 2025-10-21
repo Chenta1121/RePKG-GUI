@@ -1,0 +1,26 @@
+{
+  "app_name": "RePKG-GUI",
+  "version": "v1.0.0",
+  "platform": "Windows 版",
+  "author": "@YuefChen",
+  "repkg_path": "./assets/RePKG.exe",
+  "input_dir": "",
+  "output_dir": "./output",
+  "mode": "extract",
+  "tex": true,
+  "copyproject": true,
+  "usename": true,
+  "overwrite": false,
+  "recursive": true,
+  "copy_preview": true,
+  "auto_backup": false,
+  "options": {
+    "-t, --tex (转换TEX)": true,
+    "-c, --copyproject (复制项目文件)": true,
+    "-n, --usename (使用项目名)": true,
+    "--overwrite (覆盖现有文件)": true,
+    "-r, --recursive (递归搜索)": true
+  },
+  "classify_dir": "",
+  "unified_backup_root": ""
+}
